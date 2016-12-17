@@ -1,0 +1,2 @@
+* Sat Dec 17 2016 Ryan Parman <ryan@ryanparman.com> 0.12.1-1
+- Bundles Packer 0.12.1.
