@@ -1,5 +1,5 @@
 NAME=packer
-VERSION=0.12.2
+VERSION=0.12.3
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local/bin
