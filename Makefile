@@ -1,7 +1,6 @@
 NAME=packer
 VERSION=0.12.3
-EPOCH=1
-ITERATION=1
+ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=MPL-2.0
 VENDOR="Hashicorp"
@@ -56,7 +55,6 @@ package:
 		-n $(NAME) \
 		-v $(VERSION) \
 		-m $(MAINTAINER) \
-		--epoch $(EPOCH) \
 		--iteration $(ITERATION) \
 		--license $(LICENSE) \
 		--vendor $(VENDOR) \
