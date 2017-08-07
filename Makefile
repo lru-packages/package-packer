@@ -1,5 +1,5 @@
 NAME=packer
-VERSION=1.0.2
+VERSION=1.0.3
 ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=MPL-2.0
